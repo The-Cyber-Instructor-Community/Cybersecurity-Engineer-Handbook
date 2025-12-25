@@ -18,6 +18,9 @@ Table of Contents:
 - [Detection and IR Engineer](detection-and-ir-engineer.md)
 - [Digital Forensics and Incident Response](dfir-engineer.md)
 
-If you prefer to reading, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity.
+If you prefer to reading, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity. 
+
+For weekly cybersecurity insights delivered staright to your inbox, subscribe to - [The Cyber Instructor's Newsletter on Substack](https://thecyberinstructor.substack.com/)
+
 
 Repo created by [Karan Dwivedi](https://www.linkedin.com/in/karan1337/)
