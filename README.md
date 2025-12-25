@@ -19,3 +19,5 @@ Table of Contents:
 - [Digital Forensics and Incident Response](dfir-engineer.md)
 
 If you prefer to reading, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity.
+
+Repo created by [Karan Dwivedi](https://www.linkedin.com/in/karan1337/)
