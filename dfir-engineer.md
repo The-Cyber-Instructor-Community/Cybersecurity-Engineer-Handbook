@@ -20,8 +20,8 @@ Tools:
 - TSK/FTK imager
 
 Books:
-- Blue Team Handbook
-- File System Forensics
-- Art of Memory Forensics
+- [Blue Team Handbook](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
+- [File System Forensics](https://www.amazon.com/System-Forensic-Analysis-Brian-Carrier/dp/0321268172)
+- [Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098?)
 
 
