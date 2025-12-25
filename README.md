@@ -15,7 +15,7 @@ Table of Contents:
 - [Application Security](appsec-engineer.md)
 - [Infrastructure Security](infrastructure-security-engineer.md)
 - [Penetration Testing](pentest-engineer.md)
-- [Detection and IR Engineer](detection-and-ir-engineer.md)
+- [Detection and IR Engineer](detection-engineer.md)
 - [Digital Forensics and Incident Response](dfir-engineer.md)
 
 If you prefer to reading, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity. 
