@@ -11,7 +11,7 @@ If you prefer to learn cybersecurity at your own pace, checkout The Cyber Instru
 This subscription gives you access to all videos, hands on exercises with instant AI powered feedback, 1700+ discord community to network etc. The link has a free 3 day trial!
 
 Table of Contents:
-- [Security Engineering](security-engineer.md)(Starting point and common concepts for all specializations)
+- [Security Engineering](security-engineer.md) (Starting point and common concepts for all specializations)
 - [Application Security](appsec-engineer.md)
 - [Infrastructure Security](infrastructure-security-engineer.md)
 - [Penetration Testing](pentest-engineer.md)
