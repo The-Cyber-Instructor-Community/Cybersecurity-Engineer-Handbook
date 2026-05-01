@@ -4,9 +4,7 @@ Getting started:
 - To become a skilled security engineer you need to build breadth in systems, networks and security fundamentals.
 - After this, pick a specialization from the 5 major ones (Appsec, Infrasec, Pentest, Detection, Digital Forensics and IR) and go deeper.
 
-If you want to learn using an interactive hands on program with practical exercises, checkout the Cyber Instructor's [Cybersecurity Bootcamp](http://learn.thecyberinstructor.com/).
-
-If you prefer to learn cybersecurity at your own pace, checkout The Cyber Instructor's [All Access Subscription](https://learn.thecyberinstructor.com/program/all-access-subscription-9108) 
+If you want to learn cybersecurity from industry experts at your own pace with extensive support, checkout The Cyber Instructor's [TCI Pro Subscription](https://learn.thecyberinstructor.com/program/all-access-subscription-9108)
 
 This subscription gives you access to all videos, hands on exercises with instant AI powered feedback, 1700+ discord community to network etc. The link has a free 3 day trial!
 
@@ -18,9 +16,10 @@ Table of Contents:
 - [Detection and IR Engineer](detection-engineer.md)
 - [Digital Forensics and Incident Response](dfir-engineer.md)
 
-If you prefer to reading, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity. 
+If you prefer to read, start by following the book "[Kickstart Your Security Engineering Career](https://kickstartseceng.com/)" to break into cybersecurity. 
 
 For weekly cybersecurity insights delivered staright to your inbox, subscribe to - [The Cyber Instructor's Newsletter on Substack](https://thecyberinstructor.substack.com/)
 
+Have questions? Please email contact@thecyberinstructor.com
 
 Repo created by [Karan Dwivedi](https://www.linkedin.com/in/karan1337/)
